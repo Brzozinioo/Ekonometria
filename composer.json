@@ -1,0 +1,12 @@
+{
+    "name": "kryst/ekonometria",
+    "require": {
+        "numphp/numphp": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Krystian Brzoza",
+            "email": "krystian.brzoza@outlook.com"
+        }
+    ]
+}
